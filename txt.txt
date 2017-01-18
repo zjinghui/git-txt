@@ -1,0 +1,6 @@
+var str = "11111"
+var obj = {
+	name:"zhang",
+	age:0
+
+}
